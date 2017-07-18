@@ -1,5 +1,6 @@
 # This is a git ignore file . All ignores files will be listed here
 tempfile.txt
+tempfile2.txt
 *.zip
 *.gz
 *.tar.gz
